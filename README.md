@@ -28,3 +28,6 @@ Pages that halped me solve the project are:
 - Run the project
     * Open the terminal
     * And run python bikeshare.py
+
+### Maintainer
+- aykan.aydin@test.de
