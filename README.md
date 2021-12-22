@@ -24,7 +24,10 @@ Pages that halped me solve the project are:
     * you have to copy the csv file into the project
 - Run the project
     * Open the terminal
-    * And run python bikeshare.py
+    * And run: 
+    ```bash
+        python bikeshare.py
+    ```
 ### Maintainer
 - aykan.aydin@test.de
 
