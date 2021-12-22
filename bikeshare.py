@@ -176,7 +176,11 @@ def trip_duration_stats(df):
 
 
 def user_stats(df, city):
-    """Displays statistics on bikeshare users."""
+    """Displays statistics on bikeshare users.
+    Argument:
+        Dataframe(df) - pandas dataframe(city data, mont, day)
+        city - chicago, new york city or washington
+    """
 
     print('\nCalculating User Stats...\n')
     start_time = time.time()
