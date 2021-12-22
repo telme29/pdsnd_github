@@ -1,6 +1,3 @@
-### Date created
-22 December 2021
-
 ### Bikeshare Data Analysis
 This project will explore data related to bike share systems in Python to for three major cities in the United States - Chicago, New York City, and Washington
 
@@ -28,6 +25,8 @@ Pages that halped me solve the project are:
 - Run the project
     * Open the terminal
     * And run python bikeshare.py
-
 ### Maintainer
 - aykan.aydin@test.de
+
+### Date created
+22 December 2021
